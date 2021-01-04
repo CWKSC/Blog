@@ -1,21 +1,3 @@
----
-date: 2020-09-25 20:00:00
-layout: post
-title: "命題邏輯 Logical Equivalences 邏輯等價, Rules of Inference 推理規則"
-subtitle: 
-description: "命題邏輯的一些規則：Logical Equivalences 邏輯等價, Rules of Inference 推理規則"
-image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/post11.jpg
-optimized_image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/optimized/post11_opt.jpg
-category: Discrete Mathematics
-tags: 
-  - Mathematics 數學
-  - Discrete Math 離散數學
-  - PropositionalLogic 命題邏輯
-author: CWKSC
-paginate: false
-math: true
----
-
 命題邏輯的 Logical Equivalences 邏輯等價, Rules of Inference 推理規則
 
 ## Logical Equivalences
